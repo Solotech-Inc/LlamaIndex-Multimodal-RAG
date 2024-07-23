@@ -1,0 +1,10 @@
+llama-index
+python-dotenv
+Pillow
+PyMuPDF
+openai
+nest-asyncio
+scikit-learn
+torch
+torchvision
+tiktoken
